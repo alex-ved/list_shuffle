@@ -1,0 +1,1 @@
+This script is to shuffle letter characters in the given list.
